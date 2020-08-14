@@ -28,9 +28,9 @@ Sou determinado na elaboração de projetos,  atingir expectativas de acordo com
  
 
 - :speech_balloon:  Fale comigo:
- - [LinkedIn](https://www.linkedin.com/in/viniciusinaciopires/)
- - [E-mail](mailto:viniciusinaciopires@gmail.com)
- - [Whatsapp](https://api.whatsapp.com/send?phone=54991365656&text=E%20aí,%20Inácio.%20Tudo%20certo?)
+  - [LinkedIn](https://www.linkedin.com/in/viniciusinaciopires/)
+  - [E-mail](mailto:viniciusinaciopires@gmail.com)
+  - [Whatsapp](https://api.whatsapp.com/send?phone=54991365656&text=E%20aí,%20Inácio.%20Tudo%20certo?)
   
 - 👯 Estou aberto a oportunidades CLT, PJ e Freelance
 
