@@ -3,7 +3,7 @@
 
 Sou determinado na elaboração de projetos,  atingir expectativas de acordo com a cultura organizacional da empresa. Trabalho bem em equipe e gosto tanto de aprender quanto ensinar.
 
-- 🔥 Atuo com estas tecnologias de ponta:
+- 🔥 Atuo com estas tecnologias:
   * ReactJS
   * React Native com Expo CLI
   * NodeJS
