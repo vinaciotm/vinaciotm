@@ -33,7 +33,7 @@ Sou determinado na elaboração de projetos,  atingir expectativas de acordo com
   - [E-mail](mailto:viniciusinaciopires@gmail.com)
   - [Whatsapp](https://api.whatsapp.com/send?phone=51997573488&text=E%20aí,%20Inácio.%20Tudo%20certo?)
   
-- 👯 No momento estou comprometido com a startup TiqueTaque. Então não estou disponível algum tipo de vínculo de trabalho.
+- 👯 No momento estou comprometido com a startup TiqueTaque. Então não estou disponível para algum tipo de vínculo de trabalho.
 
 
 
